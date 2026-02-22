@@ -1,7 +1,5 @@
 # TeaKhabe-Tea-Shop-Landing-Page-Website
 
-Below is a **complete, well-structured project report** written in **easy English**, based **directly on the files and structure** of the uploaded **teakhabe-main** project.
-
 ---
 
 # **Project Report**
