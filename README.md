@@ -1,7 +1,5 @@
 # TeaKhabe-Tea-Shop-Landing-Page-Website
 
----
-
 # **Project Report**
 
 ## 1. Project Information
