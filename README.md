@@ -1,4 +1,4 @@
-# TeaKhabe-Tea-Shop-Landing-Page-Website
+# TeaKhabe Tea Shop Landing Page Website
 
 # **Project Report**
 
